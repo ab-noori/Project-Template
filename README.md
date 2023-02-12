@@ -27,7 +27,7 @@ After you're finished please remove all the comments and instructions!
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="images/project-image.jpg" alt="logo" width="400"  height="auto" />
+  <img src="images/project-image.png" alt="logo" width="500"  height="auto" />
   <br/>
 
   <h3><b>Microverse README Template</b></h3>
