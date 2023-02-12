@@ -30,7 +30,7 @@ After you're finished please remove all the comments and instructions!
   <img src="images/project-image.png" alt="logo" width="500"  height="auto" />
   <br/>
 
-  <h3><b>Microverse README Template</b></h3>
+  <h3><b>Template Repository</b></h3>
 
 </div>
 
