@@ -11,6 +11,20 @@
 
 </div>
 
+<!-- Open pull request using the following structure
+
+  ## Project title: subtitle
+
+  ### 🌟Branch features:
+
+  - i
+  - ii
+  - iii
+
+  ### [ 🚀 Branch Demo](https://ab-noori.github.io/Project-Template/)
+
+-->
+
 > # Template Repository
 ### Desktop view shoots for this project:
 
