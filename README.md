@@ -13,15 +13,15 @@
 
 <!-- Open pull request using the following structure
 
-## Awesome books: with ES6
+  ## Project title: subtitle
 
-### 🌟Branch features:
+  ### 🌟Branch features:
 
-- i
-- ii
-- iii
+  - i
+  - ii
+  - iii
 
-### [ 🚀 Branch Demo](https://ab-noori.github.io/AwesomeBooksES6/)
+  ### [ 🚀 Branch Demo](https://ab-noori.github.io/Project-Template/)
 
 -->
 
